@@ -1,9 +1,9 @@
 const mineflayer = require('mineflayer')
 
-const HOST = 'PVPpracticeO.aternos.me'
-const PORT = 60322
+const HOST = 'relinge.falix.pro'
+const PORT = 20925
 
-const USERNAME = 'HasboonBotYT_99'
+const USERNAME = 'deadly_bot'
 const PASSWORD = 'hasboon99'
 
 let bot
