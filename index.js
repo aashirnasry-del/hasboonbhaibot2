@@ -3,7 +3,7 @@ const mineflayer = require('mineflayer')
 const HOST = 'relinge.falix.pro'
 const PORT = 20925
 
-const USERNAME = 'deadly_bot'
+const USERNAME = 'bot_1000'
 const PASSWORD = 'hasboon99'
 
 let bot
